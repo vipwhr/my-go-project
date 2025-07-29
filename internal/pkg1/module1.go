@@ -5,6 +5,6 @@ import "fmt"
 
 func HelloWorld(){
 
-	fmt.Println(" Hello from internal PKG!!!!")
+	fmt.Println(" Hello from internal PKG-rebase!!!!")
 
 }
